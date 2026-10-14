@@ -97,7 +97,7 @@ Display all recorded expenses in a tabular format.
 ```text
 Expense-Tracker/
 │
-├── main.py
+├── smart_Expense_Tracker.py
 ├── expense.csv
 ├── latest_expense.xlsx
 └── README.md
@@ -128,7 +128,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 ### Step 4: Run the Application
 
 ```bash
-python main.py
+python smart_Expense_Tracker.py
 ```
 
 ## How to Use
