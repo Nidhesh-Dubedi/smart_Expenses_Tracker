@@ -13,11 +13,11 @@ class ExpenseTracker:
             self.df = pd.read_csv("expense.csv")
             # Normalize column names to lowercase
             self.df.columns = [col.lower() for col in self.df.columns]
-            # Convert 'date' column safely
+            # Convert 'date' column and format it back to a clean string YYYY-MM-DD
             if "date" in self.df.columns:
-                self.df["date"] = pd.to_datetime(self.df["date"], errors="coerce")
+                self.df["date"] = pd.to_datetime(self.df["date"], errors="coerce").dt.strftime('%Y-%m-%d')
         else:
-            self.df = pd.DataFrame(columns=["date","amount","category","description"])
+            self.df = pd.DataFrame(columns=["date", "amount", "category", "description"])
             self.df.to_csv("expense.csv", index=False)
 
         self.savings = 0.0
