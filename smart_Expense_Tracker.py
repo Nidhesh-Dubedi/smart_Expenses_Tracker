@@ -73,7 +73,7 @@ class ExpenseTracker:
                     return
 
                 new_entry = pd.DataFrame({
-                    "date": [ex_date],
+                    "date": [ex_date.strftime("%Y-%m-%d")],
                     "amount": [amount],
                     "category": [category],
                     "description": [description]
