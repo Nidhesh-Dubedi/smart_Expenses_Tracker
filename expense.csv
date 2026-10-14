@@ -1,106 +1,101 @@
-date,amount,category,description
-2026-07-01 00:00:00,220.0,Health,Clinic visit
-2026-07-03 00:00:00,180.0,Health,Medicine
-2026-07-04 00:00:00,480.0,Entertainment,Friends outing
-2026-07-05 00:00:00,390.0,Health,Medicine
-2026-07-07 00:00:00,130.0,Food,Lunch
-2026-07-08 00:00:00,50.0,Household,Cleaning items
-2026-07-09 00:00:00,170.0,Shopping,Notebook and stationery
-2026-07-11 00:00:00,390.0,Utilities,Internet bill
-2026-07-13 00:00:00,130.0,Entertainment,OTT subscription
-2026-07-15 00:00:00,260.0,Health,Clinic visit
-2026-07-17 00:00:00,680.0,Utilities,Internet bill
-2026-07-18 00:00:00,380.0,Utilities,Mobile recharge
-2026-07-19 00:00:00,300.0,Food,Groceries
-2026-07-20 00:00:00,4000.0,Education,Red and White Education Institute fees
-2026-07-21 00:00:00,600.0,Health,Clinic visit
-2026-07-22 00:00:00,230.0,Household,Cleaning items
-2026-07-23 00:00:00,140.0,Entertainment,Friends outing
-2026-07-24 00:00:00,230.0,Health,Medicine
-2026-07-25 00:00:00,110.0,Health,Medicine
-2026-07-26 00:00:00,140.0,Food,Dinner
-2026-07-27 00:00:00,60.0,Transport,Auto fare
-2026-07-28 00:00:00,430.0,Utilities,Internet bill
-2026-07-29 00:00:00,150.0,Transport,Auto fare
-2026-07-30 00:00:00,240.0,Transport,Petrol
-2026-07-31 00:00:00,440.0,Household,Household supplies
-2026-08-01 00:00:00,300.0,Entertainment,Friends outing
-2026-08-03 00:00:00,110.0,Shopping,Notebook and stationery
-2026-08-05 00:00:00,140.0,Shopping,Notebook and stationery
-2026-08-06 00:00:00,80.0,Food,Dinner
-2026-08-07 00:00:00,300.0,Entertainment,Friends outing
-2026-08-08 00:00:00,410.0,Entertainment,Friends outing
-2026-08-09 00:00:00,30.0,Food,Tea and snacks
-2026-08-11 00:00:00,220.0,Utilities,Mobile recharge
-2026-08-13 00:00:00,540.0,Transport,Petrol
-2026-08-15 00:00:00,1240.0,Utilities,Electricity bill
-2026-08-17 00:00:00,660.0,Food,Groceries
-2026-08-18 00:00:00,190.0,Utilities,Mobile recharge
-2026-08-19 00:00:00,70.0,Household,Cleaning items
-2026-08-20 00:00:00,2500.0,Education,Red and White Education Institute fees
-2026-08-21 00:00:00,80.0,Shopping,Notebook and stationery
-2026-08-22 00:00:00,60.0,Transport,Bus fare
-2026-08-23 00:00:00,230.0,Food,Groceries
-2026-08-24 00:00:00,60.0,Food,Tea and snacks
-2026-08-25 00:00:00,470.0,Food,Groceries
-2026-08-26 00:00:00,170.0,Household,Household supplies
-2026-08-27 00:00:00,680.0,Transport,Petrol
-2026-08-28 00:00:00,930.0,Utilities,Electricity bill
-2026-08-29 00:00:00,470.0,Health,Clinic visit
-2026-08-30 00:00:00,100.0,Entertainment,OTT subscription
-2026-08-31 00:00:00,360.0,Transport,Petrol
-2026-09-01 00:00:00,210.0,Shopping,Notebook and stationery
-2026-09-03 00:00:00,100.0,Shopping,Personal care items
-2026-09-04 00:00:00,200.0,Household,Cleaning items
-2026-09-05 00:00:00,280.0,Health,Medicine
-2026-09-06 00:00:00,600.0,Shopping,Clothing
-2026-09-07 00:00:00,100.0,Health,Medicine
-2026-09-09 00:00:00,240.0,Health,Clinic visit
-2026-09-10 00:00:00,590.0,Shopping,Personal care items
-2026-09-11 00:00:00,300.0,Entertainment,Movie ticket
-2026-09-12 00:00:00,260.0,Household,Household supplies
-2026-09-13 00:00:00,110.0,Household,Cleaning items
-2026-09-15 00:00:00,290.0,Household,Household supplies
-2026-09-17 00:00:00,140.0,Food,Dinner
-2026-09-19 00:00:00,80.0,Household,Cleaning items
-2026-09-20 00:00:00,3000.0,Education,Red and White Education Institute fees
-2026-09-21 00:00:00,250.0,Entertainment,Movie ticket
-2026-09-22 00:00:00,190.0,Health,Medicine
-2026-09-23 00:00:00,80.0,Health,Medicine
-2026-09-24 00:00:00,160.0,Entertainment,Movie ticket
-2026-09-25 00:00:00,390.0,Shopping,Clothing
-2026-09-26 00:00:00,270.0,Household,Household supplies
-2026-09-27 00:00:00,70.0,Transport,Auto fare
-2026-09-28 00:00:00,460.0,Household,Household supplies
-2026-09-29 00:00:00,120.0,Household,Cleaning items
-2026-09-30 00:00:00,1330.0,Shopping,Clothing
-2026-10-01 00:00:00,50.0,Food,Tea and snacks
-2026-10-03 00:00:00,130.0,Shopping,Personal care items
-2026-10-04 00:00:00,610.0,Transport,Petrol
-2026-10-05 00:00:00,300.0,Health,Medicine
-2026-10-07 00:00:00,160.0,Transport,Auto fare
-2026-10-09 00:00:00,110.0,Shopping,Notebook and stationery
-2026-10-11 00:00:00,320.0,Entertainment,Movie ticket
-2026-10-12 00:00:00,120.0,Food,Lunch
-2026-10-13 00:00:00,240.0,Entertainment,OTT subscription
-2026-10-14 00:00:00,290.0,Entertainment,Movie ticket
-2026-10-15 00:00:00,160.0,Shopping,Personal care items
-2026-10-17 00:00:00,100.0,Health,Medicine
-2026-10-19 00:00:00,90.0,Shopping,Notebook and stationery
-2026-10-20 00:00:00,4000.0,Education,Red and White Education Institute fees
-2026-10-21 00:00:00,30.0,Food,Tea and snacks
-2026-10-22 00:00:00,1450.0,Shopping,Clothing
-2026-10-23 00:00:00,290.0,Health,Medicine
-2026-10-24 00:00:00,360.0,Health,Clinic visit
-2026-10-25 00:00:00,660.0,Shopping,Clothing
-2026-10-26 00:00:00,770.0,Food,Groceries
-2026-10-27 00:00:00,240.0,Entertainment,Movie ticket
-2026-10-28 00:00:00,330.0,Entertainment,Movie ticket
-2026-10-29 00:00:00,230.0,Transport,Petrol
-2026-10-30 00:00:00,40.0,Transport,Auto fare
-2026-10-31 00:00:00,520.0,Health,Clinic visit
-,122.0,education,sddsf
-,120.0,food,eat meal
-,120.0,food,waffer
-2026-10-14 00:00:00,1.0,education,
-2026-10-15,230.0,transport,College tranport
+Date,Amount,Category,Description
+2026-07-01,220,Health,Clinic visit
+2026-07-03,180,Health,Medicine
+2026-07-04,480,Entertainment,Friends outing
+2026-07-05,390,Health,Medicine
+2026-07-07,130,Food,Lunch
+2026-07-08,50,Household,Cleaning items
+2026-07-09,170,Shopping,Notebook and stationery
+2026-07-11,390,Utilities,Internet bill
+2026-07-13,130,Entertainment,OTT subscription
+2026-07-15,260,Health,Clinic visit
+2026-07-17,680,Utilities,Internet bill
+2026-07-18,380,Utilities,Mobile recharge
+2026-07-19,300,Food,Groceries
+2026-07-20,4000,Education,Red and White Education Institute fees
+2026-07-21,600,Health,Clinic visit
+2026-07-22,230,Household,Cleaning items
+2026-07-23,140,Entertainment,Friends outing
+2026-07-24,230,Health,Medicine
+2026-07-25,110,Health,Medicine
+2026-07-26,140,Food,Dinner
+2026-07-27,60,Transport,Auto fare
+2026-07-28,430,Utilities,Internet bill
+2026-07-29,150,Transport,Auto fare
+2026-07-30,240,Transport,Petrol
+2026-07-31,440,Household,Household supplies
+2026-08-01,300,Entertainment,Friends outing
+2026-08-03,110,Shopping,Notebook and stationery
+2026-08-05,140,Shopping,Notebook and stationery
+2026-08-06,80,Food,Dinner
+2026-08-07,300,Entertainment,Friends outing
+2026-08-08,410,Entertainment,Friends outing
+2026-08-09,30,Food,Tea and snacks
+2026-08-11,220,Utilities,Mobile recharge
+2026-08-13,540,Transport,Petrol
+2026-08-15,1240,Utilities,Electricity bill
+2026-08-17,660,Food,Groceries
+2026-08-18,190,Utilities,Mobile recharge
+2026-08-19,70,Household,Cleaning items
+2026-08-20,2500,Education,Red and White Education Institute fees
+2026-08-21,80,Shopping,Notebook and stationery
+2026-08-22,60,Transport,Bus fare
+2026-08-23,230,Food,Groceries
+2026-08-24,60,Food,Tea and snacks
+2026-08-25,470,Food,Groceries
+2026-08-26,170,Household,Household supplies
+2026-08-27,680,Transport,Petrol
+2026-08-28,930,Utilities,Electricity bill
+2026-08-29,470,Health,Clinic visit
+2026-08-30,100,Entertainment,OTT subscription
+2026-08-31,360,Transport,Petrol
+2026-09-01,210,Shopping,Notebook and stationery
+2026-09-03,100,Shopping,Personal care items
+2026-09-04,200,Household,Cleaning items
+2026-09-05,280,Health,Medicine
+2026-09-06,600,Shopping,Clothing
+2026-09-07,100,Health,Medicine
+2026-09-09,240,Health,Clinic visit
+2026-09-10,590,Shopping,Personal care items
+2026-09-11,300,Entertainment,Movie ticket
+2026-09-12,260,Household,Household supplies
+2026-09-13,110,Household,Cleaning items
+2026-09-15,290,Household,Household supplies
+2026-09-17,140,Food,Dinner
+2026-09-19,80,Household,Cleaning items
+2026-09-20,3000,Education,Red and White Education Institute fees
+2026-09-21,250,Entertainment,Movie ticket
+2026-09-22,190,Health,Medicine
+2026-09-23,80,Health,Medicine
+2026-09-24,160,Entertainment,Movie ticket
+2026-09-25,390,Shopping,Clothing
+2026-09-26,270,Household,Household supplies
+2026-09-27,70,Transport,Auto fare
+2026-09-28,460,Household,Household supplies
+2026-09-29,120,Household,Cleaning items
+2026-09-30,1330,Shopping,Clothing
+2026-10-01,50,Food,Tea and snacks
+2026-10-03,130,Shopping,Personal care items
+2026-10-04,610,Transport,Petrol
+2026-10-05,300,Health,Medicine
+2026-10-07,160,Transport,Auto fare
+2026-10-09,110,Shopping,Notebook and stationery
+2026-10-11,320,Entertainment,Movie ticket
+2026-10-12,120,Food,Lunch
+2026-10-13,240,Entertainment,OTT subscription
+2026-10-14,290,Entertainment,Movie ticket
+2026-10-15,160,Shopping,Personal care items
+2026-10-17,100,Health,Medicine
+2026-10-19,90,Shopping,Notebook and stationery
+2026-10-20,4000,Education,Red and White Education Institute fees
+2026-10-21,30,Food,Tea and snacks
+2026-10-22,1450,Shopping,Clothing
+2026-10-23,290,Health,Medicine
+2026-10-24,360,Health,Clinic visit
+2026-10-25,660,Shopping,Clothing
+2026-10-26,770,Food,Groceries
+2026-10-27,240,Entertainment,Movie ticket
+2026-10-28,330,Entertainment,Movie ticket
+2026-10-29,230,Transport,Petrol
+2026-10-30,40,Transport,Auto fare
+2026-10-31,520,Health,Clinic visit
